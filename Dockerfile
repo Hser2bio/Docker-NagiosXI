@@ -1,4 +1,4 @@
-FROM centos:6 
+FROM centos:7
 LABEL maintainer="cbpeckles"
 
 # get stuff from the interwebs
